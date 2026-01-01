@@ -1,4 +1,4 @@
-# Text Classification Project
+# Exteremism Detection Project
 
 ## Overview
 
