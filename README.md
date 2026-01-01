@@ -51,7 +51,7 @@ optimization.
 
 ##Public LB scores:
 -    submissionNB.csv score = 0.794
--    submissionNB1(after tuning NB) score = 0.816
+-    submissionNB1.csv(after tuning NB) score = 0.816
 -    submissionLR.csv score = 0.805
 
 ------------------------------------------------------------------------
